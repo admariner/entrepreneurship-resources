@@ -41,6 +41,7 @@
   - [Investor relations](#investor-relations)
   - [IP (Intellectual Property) and patents](#ip-intellectual-property-and-patents)
   - [Learning](#learning)
+  - [Management](#management)
   - [Marketing](#marketing)
   - [Mental models](#mental-models)
   - [Meta: advice about advice](#meta-advice-about-advice)
@@ -72,6 +73,7 @@
   - [Support](#support)
   - [Surveys](#surveys)
   - [Teams](#teams)
+  - [Technical strategy](#technical-strategy)
   - [Toolkits](#toolkits)
   - [UX](#ux)
     - [UX Design](#ux-design)
@@ -446,6 +448,14 @@ Checkout the hiring section on my [charlax/engineering-management](https://githu
 > It is important to view knowledge as sort of a semantic tree — make sure you understand the fundamental principles, i.e., the trunk and big branches, before you get into the leaves/details or there is nothing for them to hang on to.
 >
 > – Elon Musk
+
+### Management
+
+- [No management needed: anti-patterns in early-stage engineering teams](https://www.ablg.io/blog/no-management-needed)
+  - Do not try to "motivate" your engineers
+  - Do not hire managers too soon
+  - Do not copy Google
+  - Use boring management processes
 
 ### Marketing
 
